@@ -1,6 +1,6 @@
 # Práctica #2 — Topología #1: VPN Site-to-Site con FortiGate
 
-> **Video de demostración:** [🎥 Ver video](PENDIENTE-URL-DEL-VIDEO)
+> **Video de demostración:** [🎥 Ver video](https://youtu.be/F61-0_n8aNA)
 
 **Asignatura:** Seguridad de Redes  
 **Estudiante:** Luis Ariel Alevante Agramonte  
