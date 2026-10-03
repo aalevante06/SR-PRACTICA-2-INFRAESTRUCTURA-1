@@ -275,7 +275,7 @@ La infraestructura cumple el objetivo principal: el usuario de la VLAN 10 puede 
 ## Estructura del repositorio
 
 ```text
-SR-PRACTICA-2-TOPOLOGIA-1/
+SR-PRACTICA-2-INFRAESTRUCTURA-1/
 ├── README.md
 ├── docs/
 │   ├── direccionamiento.md
